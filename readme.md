@@ -1,4 +1,7 @@
-Affected Version
+## Affected Version
 
-Component name: Microsoft Windows Defender Anti Virus
-Component version: 4.18.24060.7 (Win 11)
+<a>Component name: Microsoft Windows Defender Anti Virus</a>
+<a>Component version: 4.18.24060.7 (Win 11)</a>
+<br>
+<h2>NOTE</h2>
+<a>I am not responsible for the actions and risks taken by others, this is just for learning purposes.</a>
